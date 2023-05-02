@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "AgeGuessing"
 include(":androidApp")
+include(":iosApp")
 include(":shared")
